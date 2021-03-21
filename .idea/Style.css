@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.pole {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+}
+
+table {
+    height: 500px;
+    width: 500px;
+    border:  10px solid darkgray;
+}
+.cerna {
+    background-color: black;
+}
+.bila {
+    background-color: white;
+}
